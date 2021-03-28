@@ -13,5 +13,5 @@
 | UNICOM_PASSWORD  | 服务密码 |    
 #### 依次添加共四项
 #### 添加以上数据之后，进入 actions ，点击绿色长条启用它，   
-#### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处  。再点击下方绿色Commit changes保存。
+#### 回到代码Code处，进入自述文档README.m,随意编辑它，比如删除此处  。再点击下方绿色Commit changes保存。
 #### 并发数我改成2了。
